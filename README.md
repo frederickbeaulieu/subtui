@@ -1,15 +1,19 @@
 # subtui
 
-To install dependencies:
+A terminal UI for [Navidrome](https://www.navidrome.org/) / OpenSubsonic / Subsonic servers, built with [OpenTUI](https://opentui.com).
+
+## Requirements
+
+- [Bun](https://bun.com)
+
+## Setup
 
 ```bash
 bun install
 ```
 
-To run:
+## Run
 
 ```bash
-bun run index.ts
+bun index.tsx
 ```
-
-This project was created using `bun init` in bun v1.4.0. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
