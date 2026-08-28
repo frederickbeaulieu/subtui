@@ -8,6 +8,7 @@
         "@opentui/core": "^0.5.9",
         "@opentui/solid": "^0.5.9",
         "solid-js": "1.9.12",
+        "subsonic-api": "^3.3.1",
       },
       "devDependencies": {
         "@types/bun": "latest",
@@ -263,6 +264,8 @@
     "string-width": ["string-width@7.2.0", "", { "dependencies": { "emoji-regex": "^10.3.0", "get-east-asian-width": "^1.0.0", "strip-ansi": "^7.1.0" } }, "sha512-tsaTIkKW9b4N+AEj+SVA+WhJzV7/zMhcSu78mLKWSk7cXMOSHsBKFWUs0fWwq8QyK3MgJBQRX6Gbi4kYbdvGkQ=="],
 
     "strip-ansi": ["strip-ansi@7.1.2", "", { "dependencies": { "ansi-regex": "^6.0.1" } }, "sha512-gmBGslpoQJtgnMAvOVqGZpEz9dyoKTCzy2nfz/n8aIFhN/jCE/rCmcxabB6jOOHV+0WNnylOxaxBQPSvcWklhA=="],
+
+    "subsonic-api": ["subsonic-api@3.3.1", "", {}, "sha512-0320kOsY8ym4wSR1rwVUqEYpMaa7zjbER26SsI8akO6P22DRW7iEliJLreuj7aKSE0t7FT/NbvbVXgm8PqU4yg=="],
 
     "supports-preserve-symlinks-flag": ["supports-preserve-symlinks-flag@1.0.0", "", {}, "sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w=="],
 
