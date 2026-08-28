@@ -1,5 +1,5 @@
-import { render } from "@opentui/solid"
+import { render } from "@opentui/solid";
 
-const App = () => <text>Hello, World!</text>
+const App = () => <text>Hello, World!</text>;
 
-await render(App)
+await render(App);

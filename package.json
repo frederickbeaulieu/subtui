@@ -4,6 +4,7 @@
   "type": "module",
   "private": true,
   "devDependencies": {
+    "@biomejs/biome": "2.5.11",
     "@types/bun": "latest"
   },
   "peerDependencies": {
