@@ -10,4 +10,9 @@ start:
   bun index.tsx
 
 check:
+  bunx --bun @biomejs/biome check
+  bunx knip
+
+fix:
   bunx --bun @biomejs/biome check --write
+  bunx knip --fix
